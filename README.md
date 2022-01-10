@@ -1,9 +1,13 @@
-# Get Started
+---
+description: >-
+  Welcome to Docs by Dude. This is a landing page for all things happening under
+  Finnish digital agency Dude, locally known literally as Digitoimisto Dude Oy.
+---
 
-## Try it out test
+# 🧙♂ Introduction
 
-Use this area to play with the editor and get to grips with some of the content blocks. Have a play then move on to the next page!
+## What is Dude?
 
-## Moving on
+Dude is a shortened name of a Finnish boutique web design agency formed in 2013 in Jyväskylä, Finland. Our main product is customized WordPress websites, weshops and web services for companies.
 
-All good? Let's explore some of the main GitBook concepts, starting with **Spaces**.
+Our area of operation is currently Finland, but as we are a part for active WordPress community, actively publishing our tools and ways with open source licenses and using English as a development language, hence this documentation landing page is in English as well.
