@@ -5,7 +5,11 @@ description: >-
   locally known literally as Digitoimisto Dude Oy.
 ---
 
-# Introduction
+# 🧙♂ Introduction
+
+## Development at Dude
+
+You are browsing the technical development handbook of Dude, the Finnish digital agency. This handbook is supposed to be helpful for both internal and external members of Dude. It consists of best practices, code snippets, setup documentation, server-side commands and all things in between. Enjoy!
 
 ## What is Dude?
 
