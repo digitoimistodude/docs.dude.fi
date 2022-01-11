@@ -5,7 +5,3 @@
 ## Project stages
 
 * [Starting a new project](project-stages/starting-a-new-project.md)
-
-***
-
-* [Internal doc test](internal-doc-test.md)
