@@ -1,8 +1,8 @@
 ---
 description: >-
-  Welcome to the Docs by Dude. This is a landing page for all things happening
-  under Finnish digital agency Dude, locally known literally as Digitoimisto
-  Dude Oy.
+  Welcome to the Development Docs by Dude. This is a landing page for all code-
+  and tech related things happening under the Finnish digital agency Dude,
+  locally known literally as Digitoimisto Dude Oy.
 ---
 
 # Introduction
@@ -18,5 +18,5 @@ Our area of operation is currently Finland, but as we are a part for active Word
 {% endcontent-ref %}
 
 {% content-ref url="https://app.gitbook.com/o/PedExJWZmbCiZe4gDwKC/s/c0A5UviP5vGDU2zw4yAs/" %}
-[Copy of Handbook](https://app.gitbook.com/o/PedExJWZmbCiZe4gDwKC/s/c0A5UviP5vGDU2zw4yAs/)
+[Codebook - Development at Dude](https://app.gitbook.com/o/PedExJWZmbCiZe4gDwKC/s/c0A5UviP5vGDU2zw4yAs/)
 {% endcontent-ref %}
