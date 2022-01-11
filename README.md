@@ -29,10 +29,8 @@ Dude is a shortened name of a Finnish boutique web design agency formed in 2013 
 
 Our area of operation is currently Finland, but as we are a part for active WordPress community, actively publishing our tools and ways with open source licenses and using English as a development language, hence this documentation landing page is in English as well.
 
-{% content-ref url="https://app.gitbook.com/o/PedExJWZmbCiZe4gDwKC/s/DDAulYAX8WxUWdcKZkIZ/" %}
-[Handbook](https://app.gitbook.com/o/PedExJWZmbCiZe4gDwKC/s/DDAulYAX8WxUWdcKZkIZ/)
-{% endcontent-ref %}
+### Related documentation
 
-{% content-ref url="https://app.gitbook.com/o/PedExJWZmbCiZe4gDwKC/s/c0A5UviP5vGDU2zw4yAs/" %}
-[Codebook - Development at Dude](https://app.gitbook.com/o/PedExJWZmbCiZe4gDwKC/s/c0A5UviP5vGDU2zw4yAs/)
+{% content-ref url="https://app.gitbook.com/o/PedExJWZmbCiZe4gDwKC/s/3wjKHwxi1Rn1DobDRUuf/" %}
+[Air by Dude](https://app.gitbook.com/o/PedExJWZmbCiZe4gDwKC/s/3wjKHwxi1Rn1DobDRUuf/)
 {% endcontent-ref %}
