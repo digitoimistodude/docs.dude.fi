@@ -47,3 +47,33 @@ The createproject command consists of bunch of different tasks. You can view the
 #### 3. Creating a shared database for the project
 
 Next we will need a shared database for our project to our staging server (gunship). The start scripts in steps 1 and 2 have already established a local development database but as we need to share the work we do with the developer fella next to us, we need to get it shared. Also this way everything keeps in sync with the customer and all developers without us having continuously figure out on how to migrate without conflicts.
+
+First, log in to staging server:
+
+```bash
+ssh account@gunship.dude.fi
+```
+
+Second, log in to MariaDB server:
+
+```bash
+mysql -u root -p
+```
+
+Let's create credentials for your project:
+
+```sql
+CREATE USER 'projectname'@'%' IDENTIFIED BY 'YOUR_MEGA_LONG_AND_ULTRA_DIFFICULT_PASSWORD_GENERATED_IN_1PASSWORD';
+```
+
+Then we are going to grant all the necessary permissions for that user:
+
+```sql
+GRANT ALL PRIVILEGES ON projectname.* TO 'projectname'@'%';
+```
+
+Let's apply the changes by flushing privileges:
+
+```sql
+FLUSH PRIVILEGES;
+```
