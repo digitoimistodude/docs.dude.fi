@@ -1,10 +1,11 @@
 ---
 description: >-
-  Welcome to Docs by Dude. This is a landing page for all things happening under
-  Finnish digital agency Dude, locally known literally as Digitoimisto Dude Oy.
+  Welcome to the Docs by Dude. This is a landing page for all things happening
+  under Finnish digital agency Dude, locally known literally as Digitoimisto
+  Dude Oy.
 ---
 
-# 🧙♂ Introduction
+# Introduction
 
 ## What is Dude?
 
