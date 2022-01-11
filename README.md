@@ -7,6 +7,10 @@ description: >-
 
 # 🧙♂ Introduction
 
+{% hint style="info" %}
+**WIP-note for staff:** This Space is meant for public documentation that should be visible for everyone online. We are currently in between of moving technical details from handbook.dude.fi (from sections 3 to 4) to here.
+{% endhint %}
+
 ## Development at Dude
 
 You are browsing the technical development handbook of Dude, the Finnish digital agency. This handbook is supposed to be helpful for both internal and external members of Dude. It consists of best practices, code snippets, setup documentation, server-side commands and all things in between. Enjoy!
