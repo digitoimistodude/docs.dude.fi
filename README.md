@@ -7,7 +7,7 @@ description: >-
 # 🧙♂ Dude Coding Standards
 
 {% hint style="info" %}
-**WIP-note for staff:** This Space is meant for public documentation that should be visible for everyone online. We are currently in between of moving technical details from handbook.dude.fi (from sections 3 to 4) to here.
+**WIP-note for staff:** This Space is meant for public **Coding Standards documentation only** that should be visible for everyone online. Everything else in tech should be located in Internal Development Docs or [Public Company Handbook](https://handbook.dude.fi).
 {% endhint %}
 
 ## Development at Dude

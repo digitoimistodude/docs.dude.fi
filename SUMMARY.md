@@ -2,9 +2,9 @@
 
 * [🧙♂ Dude Coding Standards](README.md)
 
-## HTML Markup
+## HTML
 
-* [HTML markup](html-markup/html-markup.md)
+* [HTML markup](html/html-markup.md)
 
 ## PHP
 
