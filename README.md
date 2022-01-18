@@ -1,11 +1,10 @@
 ---
 description: >-
-  Welcome to the Development Docs by Dude. This is a landing page for all code-
-  and tech related things happening under the Finnish digital agency Dude,
-  locally known literally as Digitoimisto Dude Oy.
+  Welcome to the Dude Coding Standards (DCS) documentation by Finnish digital
+  agency Dude, locally known literally as Digitoimisto Dude Oy.
 ---
 
-# 🧙♂ Introduction
+# 🧙♂ Dude Coding Standards
 
 {% hint style="info" %}
 **WIP-note for staff:** This Space is meant for public documentation that should be visible for everyone online. We are currently in between of moving technical details from handbook.dude.fi (from sections 3 to 4) to here.
@@ -13,14 +12,14 @@ description: >-
 
 ## Development at Dude
 
-You are browsing the technical development handbook of Dude, the Finnish digital agency. This handbook is supposed to be helpful for both internal and external members of Dude. It consists of best practices, code snippets, setup documentation, server-side commands and all things in between. Enjoy!
+You are browsing the technical Coding Standards handbook of Dude, the Finnish digital agency. This handbook is supposed to be helpful for both internal and external members of Dude. It consists of best practices in programming at Dude.
 
 #### Base for development
 
 We are committed to keep this handbook under continuous development. If we notice issues in our tech, workflow, DevOps or anything related, we will improve on those areas. If you have any suggestions to this handbook, please send them to roni@dude.fi. Thanks!
 
 {% hint style="info" %}
-Please note: As most of this documentation includes pretty common best practices, it may also have something strictly specific to our company culture. It may not be easily followed by a external member of our community so please advice.
+**Please note:** As most of this documentation includes pretty common best practices, it may also have something strictly specific to our company culture. It may not be easily followed by a external member of our community so please advice.
 {% endhint %}
 
 ## What is Dude?

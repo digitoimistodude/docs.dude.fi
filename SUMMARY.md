@@ -1,7 +1,15 @@
 # Table of contents
 
-* [🧙♂ Introduction](README.md)
+* [🧙♂ Dude Coding Standards](README.md)
 
-## Project stages
+## HTML Markup
 
-* [Starting a new project](project-stages/starting-a-new-project.md)
+* [HTML markup](html-markup/html-markup.md)
+
+## PHP
+
+* [PHP](php/php.md)
+
+## CSS
+
+* [CSS](css/css.md)
