@@ -13,8 +13,10 @@
 
 ## PHP
 
-* [PHP](php/php.md)
+* [PHP Guidelines](php/php-guidelines.md)
 
 ## CSS
 
-* [CSS](css/css.md)
+* [CSS Guidelines](css/css-guidelines.md)
+* [SCSS Guidelines](css/scss-guidelines/README.md)
+  * [Nesting](css/scss-guidelines/nesting.md)
