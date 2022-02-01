@@ -14,6 +14,7 @@
 ## PHP
 
 * [PHP Guidelines](php/php-guidelines.md)
+* [Linting PHP with PHP\_CodeSniffer](php/linting-php-with-php\_codesniffer.md)
 
 ## CSS
 
