@@ -21,3 +21,4 @@
 * [CSS Guidelines](css/css-guidelines.md)
 * [SCSS Guidelines](css/scss-guidelines/README.md)
   * [Nesting](css/scss-guidelines/nesting.md)
+* [Stylelint](css/stylelint.md)

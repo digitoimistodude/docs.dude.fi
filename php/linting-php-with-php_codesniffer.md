@@ -4,9 +4,13 @@ Please also see the installation in [Air-light Debuggers](https://github.com/dig
 
 ### Disabling rules
 
-If for some reason you need to use something that has been disallowed in phpcs.xml you should have good arguments in favor of it. You should comment the change accordingly:
+If for some reason you need to use something that has been disallowed in phpcs.xml you should have good arguments in favor to it. You should comment the change accordingly:
 
-\`\`\`php
+```php
+<?php
+// This rule is disabled in this file because...
+// phpcs:disable WordPress.Security.ValidatedSanitizedInput.MissingUnslash
+```
 
 ### PHP Code Beautifier and Fixer (phpcbf)
 
