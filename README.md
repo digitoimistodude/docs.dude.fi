@@ -2,6 +2,8 @@
 description: >-
   Welcome to the Dude Coding Standards (DCS) documentation by Finnish digital
   agency Dude, locally known literally as Digitoimisto Dude Oy.
+cover: .gitbook/assets/search.php.png
+coverY: 0
 ---
 
 # 🧙♂ Dude Coding Standards

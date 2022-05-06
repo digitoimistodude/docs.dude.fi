@@ -1,4 +1,13 @@
+---
+cover: ../../.gitbook/assets/block.php.png
+coverY: 0
+---
+
 # Blocks
+
+### Resources
+
+{% embed url="https://docs.airwptheme.com/air-blocks/block-library" %}
 
 ### Section blocks
 

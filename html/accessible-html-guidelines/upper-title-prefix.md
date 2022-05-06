@@ -1,8 +1,10 @@
 ---
 description: Or prefix. Whatever you like to call them.
+cover: ../../.gitbook/assets/prefix.php.png
+coverY: 0
 ---
 
-# Upper title
+# Upper title/Prefix
 
 ### <mark style="color:red;">**Wrong**</mark>
 

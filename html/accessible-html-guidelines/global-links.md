@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/global-link.php.png
+coverY: 0
+---
+
 # Global links
 
 ### <mark style="color:red;">**Wrong**</mark>
