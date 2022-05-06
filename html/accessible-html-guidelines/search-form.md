@@ -1,7 +1,7 @@
 ---
 description: How to create an accessible search form.
 cover: ../../.gitbook/assets/search.php.png
-coverY: 350.9090909090909
+coverY: 278.18181818181813
 ---
 
 # Search form
