@@ -4,10 +4,11 @@
 
 ## HTML
 
-* [HTML Guidelines](html/html-guidelines/README.md)
-  * [Blocks](html/html-guidelines/blocks.md)
-  * [Upper title](html/html-guidelines/upper-title.md)
-  * [Global links](html/html-guidelines/global-links.md)
+* [Accessible HTML Guidelines](html/accessible-html-guidelines/README.md)
+  * [Blocks](html/accessible-html-guidelines/blocks.md)
+  * [Upper title](html/accessible-html-guidelines/upper-title.md)
+  * [Global links](html/accessible-html-guidelines/global-links.md)
+  * [Search form](html/accessible-html-guidelines/search-form.md)
 * [HTML elements](html/html-elements/README.md)
   * [Lists](html/html-elements/lists.md)
 
