@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Screen-Shot-2022-05-06-11-34-50.58.png
+coverY: 0
+---
+
 # Linting PHP with PHP\_CodeSniffer
 
 Please also see the installation in [Air-light Debuggers](https://github.com/digitoimistodude/air-light#debuggers) or on [Internal Development Docs](https://app.gitbook.com/o/PedExJWZmbCiZe4gDwKC/s/VVikkYgIZ9miBzwYDCYh/). Your editors should lint automatically after installing these tools.

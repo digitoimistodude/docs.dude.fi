@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Screen-Shot-2022-05-06-11-36-34.84.png
+coverY: 0
+---
+
 # Stylelint
 
 ### Disabling rules
