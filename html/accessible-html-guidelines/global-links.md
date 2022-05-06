@@ -1,6 +1,6 @@
 ---
 cover: ../../.gitbook/assets/global-link.php.png
-coverY: 0
+coverY: 140
 ---
 
 # Global links
