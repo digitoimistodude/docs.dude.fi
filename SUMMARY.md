@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🧙♂ Dude Coding Standards](README.md)
+* [🧙‍♂️ Dude Coding Standards](README.md)
 
 ## HTML
 

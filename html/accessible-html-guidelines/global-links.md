@@ -28,11 +28,11 @@ This example ignores the global link from screen readers and keyboards so that i
 ```html
 <div class="col">
   <a href="<?php echo esc_url( get_the_permalink() ); ?>" class="global-link" aria-hidden="true" tabindex="-1"></a>
-    <h2>
-      <a href="<?php echo esc_url( get_the_permalink() ); ?>">
-        Title
-      </a>
-    </h2>
+  <h2>
+    <a href="<?php echo esc_url( get_the_permalink() ); ?>">
+      Title
+    </a>
+  </h2>
   <p>Descriptive text.</p>
 </div>
 ```
