@@ -1,6 +1,4 @@
-# CSS Naming Conventions
-
-## Custom properties and variables
+# Custom properties and variables
 
 ### Variable naming conventions
 
@@ -21,8 +19,6 @@ Suggested format:
 ```
 
 #### Examples of how variables in block/component and other files could be named
-
-Examples:
 
 ```css
 --color-menu-item-background: var(—color-white);
