@@ -35,4 +35,4 @@ Examples:
 
 We don't need separate breakpoint-specific variables.&#x20;
 
-We could just redefine the values of each original custom property within the scope of each media/container query. Which would work well if the nav mobile and desktop partials are ever consolidated in the future.
+We can just redefine the values of each original custom property within the scope of each media/container query. Which would work well if the nav mobile and desktop partials are ever consolidated in the future.
