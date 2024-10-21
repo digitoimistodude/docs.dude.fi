@@ -6,7 +6,7 @@ cover: .gitbook/assets/search.php.png
 coverY: 0
 ---
 
-# 🧙♂ Dude Coding Standards
+# 🧙‍♂️ Dude Coding Standards
 
 {% hint style="info" %}
 **WIP-note for staff:** This Space is meant for public **Coding Standards documentation only** that should be visible for everyone online. Everything else in tech should be located in Internal Development Docs or [Public Company Handbook](https://handbook.dude.fi).
@@ -26,7 +26,7 @@ We are committed to keep this handbook under continuous development. If we notic
 
 ## What is Dude?
 
-Dude is a shortened name of a Finnish boutique web design agency formed in 2013 in Jyväskylä, Finland. Our main product is customized WordPress websites, weshops and web services for companies.
+[Dude](https://www.dude.fi/) is a shortened name of a Finnish boutique web design agency formed in 2013 in Jyväskylä, Finland. Our main product is customized WordPress websites, weshops and web services for companies.
 
 Our area of operation is currently Finland, but as we are a part for active WordPress community, actively publishing our tools and ways with open source licenses and using English as a development language, hence this documentation landing page is in English as well.
 

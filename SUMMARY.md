@@ -19,7 +19,8 @@
 
 ## CSS
 
-* [CSS Guidelines](css/css-guidelines.md)
+* [CSS Guidelines](css/css-guidelines/README.md)
+  * [CSS Naming Conventions](css/css-guidelines/css-naming-conventions.md)
 * [SCSS Guidelines](css/scss-guidelines/README.md)
   * [Nesting](css/scss-guidelines/nesting.md)
 * [Stylelint](css/stylelint.md)
