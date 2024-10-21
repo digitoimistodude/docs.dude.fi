@@ -19,11 +19,10 @@
 
 ## CSS
 
-* [CSS Guidelines](css/css-guidelines/README.md)
-  * [Naming Conventions](css/css-guidelines/naming-conventions/README.md)
-    * [Custom properties and variables](css/css-guidelines/naming-conventions/custom-properties-and-variables.md)
-    * [Naming classes](css/css-guidelines/naming-conventions/naming-classes.md)
-* [Defining font families](css/defining-font-families.md)
-* [SCSS Guidelines](css/scss-guidelines/README.md)
-  * [Nesting](css/scss-guidelines/nesting.md)
+* [CSS and SCSS Guidelines](css/css-and-scss-guidelines/README.md)
+  * [Naming Conventions](css/css-and-scss-guidelines/naming-conventions/README.md)
+    * [Custom properties and variables](css/css-and-scss-guidelines/naming-conventions/custom-properties-and-variables.md)
+    * [Naming classes](css/css-and-scss-guidelines/naming-conventions/naming-classes.md)
+  * [Defining font families](css/css-and-scss-guidelines/defining-font-families.md)
+  * [Nesting](css/css-and-scss-guidelines/nesting.md)
 * [Stylelint](css/stylelint.md)
