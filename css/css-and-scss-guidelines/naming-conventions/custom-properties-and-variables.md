@@ -2,7 +2,7 @@
 
 ### Variable naming conventions
 
-Suggested format:
+Defined format:
 
 ```css
  --category-element-property-state: value;
