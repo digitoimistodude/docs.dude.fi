@@ -15,7 +15,7 @@
 ## PHP
 
 * [PHP Guidelines](php/php-guidelines.md)
-* [Linting PHP with PHP\_CodeSniffer](php/linting-php-with-php\_codesniffer.md)
+* [Linting PHP with PHP\_CodeSniffer](php/linting-php-with-php_codesniffer.md)
 
 ## CSS
 
@@ -26,3 +26,10 @@
   * [Defining font families](css/css-and-scss-guidelines/defining-font-families.md)
   * [Nesting](css/css-and-scss-guidelines/nesting.md)
 * [Stylelint](css/stylelint.md)
+
+***
+
+* [SVGs](svgs/README.md)
+  * [Importing SVG files into a project](svgs/importing-svg-files-into-a-project.md)
+  * [SVGs and accessibility](svgs/svgs-and-accessibility.md)
+  * [Styling SVGs](svgs/styling-svgs.md)
