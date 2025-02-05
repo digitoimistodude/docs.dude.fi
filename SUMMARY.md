@@ -6,6 +6,7 @@
 
 * [Accessible HTML Guidelines](html/accessible-html-guidelines/README.md)
   * [Blocks](html/accessible-html-guidelines/blocks.md)
+  * [Headings](html/accessible-html-guidelines/headings.md)
   * [Upper title/Prefix](html/accessible-html-guidelines/upper-title-prefix.md)
   * [Global links](html/accessible-html-guidelines/global-links.md)
   * [Search form](html/accessible-html-guidelines/search-form.md)
